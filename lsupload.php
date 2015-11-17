@@ -1,4 +1,5 @@
 <?php
+//Created by Brian Smith
 require("lsconnection.php");
 //Location where uploaded images go
 $target_dir = "images/";
